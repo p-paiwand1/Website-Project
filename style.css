@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(255, 255, 255, 0.747);
+  width: 900px;
+  padding: 50px 0;
+  margin: 25px auto;
+  border-radius: 10px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+.nav a {
+  margin: 0px 25px;
+}
+html {
+  background: url("GC2_2214.jpg") center no-repeat fixed;
+  background-size: cover;
+  text-align: center;
+  font-style: italic;
+  font-size: large;
+}
